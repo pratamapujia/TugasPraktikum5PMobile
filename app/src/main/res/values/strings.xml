@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasPraktikum5</string>
+    <string name="makanan_khas_surabaya">Makanan Khas Surabaya</string>
+    <string name="imgjajan">imgjajan</string>
+    <string name="namajajan">namajajan</string>
+    <string name="imgjajan2">imgjajan2</string>
+    <string name="namajajan2">namajajan2</string>
+    <string name="descjajan">descjajan</string>
+    <string name="harga">harga</string>
+</resources>
